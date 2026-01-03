@@ -46,6 +46,6 @@ We selected three classifiers with different mathematical philosophies to compar
 ### **Run the Analysis**
 Clone the repository and execute the main script to generate the comparison graphs:
 ```bash
-git clone [https://github.com/ECE20875-Python-for-Data-Science/project-fall2025-akshagg](https://github.com/ECE20875-Python-for-Data-Science/project-fall2025-akshagg)
+git clone (https://github.com/akshagg/-Adversarial-Robustness-in-Digit-Classification)
 cd project-fall2025-akshagg
 python main.py
